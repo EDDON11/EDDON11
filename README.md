@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+## About Me
+
+## My name is Eduard, I am a junior web developer, I study JavaScript, React, TypeScript. I also love analytics in any of its manifestations, I study data analytics. There is knowledge in Python. Below you can see my works and educational projects.
 
 <!--
 **EDDON11/EDDON11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
